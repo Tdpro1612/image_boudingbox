@@ -35,3 +35,4 @@ model.summary()
 ![train model](https://user-images.githubusercontent.com/61773507/96671767-d4b65380-138c-11eb-969b-17783c7c43f6.png)
 
 #test
+![Untitled](https://user-images.githubusercontent.com/61773507/96675855-21eaf300-1396-11eb-9a20-fee04dc92ccd.png)
