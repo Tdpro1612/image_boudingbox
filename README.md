@@ -1,7 +1,7 @@
 # Cat Face Localization
 
-## đã có data xem file Cat Face Localization.ipynb
-## chưa có data dowload file bằng file API dowload data từ Kaggle.ipynb
+* đã có data xem file Cat Face Localization.ipynb
+* chưa có data dowload file bằng file API dowload data từ Kaggle.ipynb
 
 # hướng dẫn cách làm
 we using google colab
@@ -32,3 +32,4 @@ model = tf.keras.Sequential([base_model,tf.keras.layers.GlobalAveragePooling2D()
 # Print out model summary
 model.summary()
 ```
+![train model](https://user-images.githubusercontent.com/61773507/96671767-d4b65380-138c-11eb-969b-17783c7c43f6.png)
